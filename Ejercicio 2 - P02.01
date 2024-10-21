@@ -1,6 +1,0 @@
-
-# Online Python - IDE, Editor, Compiler, Interpreter
-
-saludo = '¡Hola Mundo!'
-print(saludo)
-
